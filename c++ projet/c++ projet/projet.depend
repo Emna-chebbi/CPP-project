@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1711754080 source:c:\users\azonn\documents\mariem\main.cpp
+	<iostream>
+	"Menu.h"
+	<fstream>
+	<vector>
+
+1711712380 c:\users\azonn\documents\mariem\personne.h
+	<fstream>
+	<iostream>
+	<string>
+
+1711712376 c:\users\azonn\documents\mariem\etudiant.h
+	<iostream>
+	<string>
+	"Personne.h"
+
+1711719358 c:\users\azonn\documents\mariem\enseignant.h
+	"Etudiant.h"
+	<iostream>
+
+1711742883 c:\users\azonn\documents\mariem\matiere.h
+	<iostream>
+	<string>
+	<fstream>
+	"Enseignant.h"
+
+1711727518 c:\users\azonn\documents\mariem\module.h
+	<limits>
+	<fstream>
+	<string>
+	<vector>
+	"Matiere.h"
+
+1711725760 c:\users\azonn\documents\mariem\groupe.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"Note.h"
+
+1711753889 c:\users\azonn\documents\mariem\note.h
+	"Module.h"
+	<iostream>
+	<string>
+
+1711755114 c:\users\azonn\documents\mariem\menu.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<sstream>
+	"Groupe.h"
+	<iomanip>
+	<limits>
+
+1715029192 source:c:\users\user\desktop\mariem (1)\mariem\main.cpp
+	<iostream>
+	"Menu.h"
+	<fstream>
+	<vector>
+
+1715029192 c:\users\user\desktop\mariem (1)\mariem\menu.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<sstream>
+	"Groupe.h"
+	<iomanip>
+	<limits>
+
+1715029192 c:\users\user\desktop\mariem (1)\mariem\groupe.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"Note.h"
+
+1715029192 c:\users\user\desktop\mariem (1)\mariem\note.h
+	"Module.h"
+	<iostream>
+	<string>
+
+1715029192 c:\users\user\desktop\mariem (1)\mariem\module.h
+	<limits>
+	<fstream>
+	<string>
+	<vector>
+	"Matiere.h"
+
+1715029192 c:\users\user\desktop\mariem (1)\mariem\matiere.h
+	<iostream>
+	<string>
+	<fstream>
+	"Enseignant.h"
+
+1715029192 c:\users\user\desktop\mariem (1)\mariem\enseignant.h
+	"Etudiant.h"
+	<iostream>
+
+1715029192 c:\users\user\desktop\mariem (1)\mariem\etudiant.h
+	<iostream>
+	<string>
+	"Personne.h"
+
+1715029194 c:\users\user\desktop\mariem (1)\mariem\personne.h
+	<fstream>
+	<iostream>
+	<string>
+
+1715072489 source:c:\users\user\desktop\c++ projet\c++ projet\main.cpp
+	<iostream>
+	"Menu.h"
+	<fstream>
+	<vector>
+
+1715082897 c:\users\user\desktop\c++ projet\c++ projet\menu.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<sstream>
+	"Groupe.h"
+	<iomanip>
+	<limits>
+
+1715073061 c:\users\user\desktop\c++ projet\c++ projet\groupe.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"Note.h"
+
+1715075405 c:\users\user\desktop\c++ projet\c++ projet\note.h
+	"Module.h"
+	<iostream>
+	<string>
+
+1715075322 c:\users\user\desktop\c++ projet\c++ projet\module.h
+	<limits>
+	<fstream>
+	<string>
+	<vector>
+	"Matiere.h"
+
+1715073285 c:\users\user\desktop\c++ projet\c++ projet\matiere.h
+	<iostream>
+	<string>
+	<fstream>
+	"Enseignant.h"
+
+1715072933 c:\users\user\desktop\c++ projet\c++ projet\enseignant.h
+	"Etudiant.h"
+	<iostream>
+
+1715072676 c:\users\user\desktop\c++ projet\c++ projet\etudiant.h
+	<iostream>
+	<string>
+	"Personne.h"
+
+1715075484 c:\users\user\desktop\c++ projet\c++ projet\personne.h
+	<fstream>
+	<iostream>
+	<string>
+
